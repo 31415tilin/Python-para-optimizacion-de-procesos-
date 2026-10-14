@@ -1,0 +1,15 @@
+ID_Cliente;Sector_Economico;Monto_Credito_USD;Calificacion_SARAS
+C-001;Agricultura;242379;B
+C-002;COMERCIO;90255;A
+C-003;Manufactura Pesada;168123;C
+C-004;tecnología;193292;A
+C-005;MINERÍA;37094;Nulo
+C-006;Nulo;6124;B
+C-007;agroindustria;81563;C
+C-008;Agricultura;12840;B
+C-009;COMERCIO;6589;A
+C-010;Manufactura Pesada;163224;C
+C-011;tecnología;101251;A
+C-012;MINERÍA;30056;Nulo
+C-013;Nulo;10362;B
+C-014;agroindustria;173884;C
