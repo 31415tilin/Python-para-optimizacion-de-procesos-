@@ -1,0 +1,1052 @@
+ID_Cliente;Sector_Economico;Monto_Credito_USD;Calificacion_SARAS
+C-001;Sector,Calificación;242379;B
+C-002;Manufactura Pesada,A;90255;A
+C-003;COMERCIO,B;168123;C
+C-004;Manufactura Pesada,Nulo;193292;A
+C-005;MINERÍA,A;37094;Nulo
+C-006;COMERCIO,C;6124;B
+C-007;COMERCIO,A;81563;C
+C-008;Manufactura Pesada,B;12840;B
+C-009;tecnología,Nulo;6589;A
+C-010;COMERCIO,B;163224;C
+C-011;Nulo,C;101251;A
+C-012;Manufactura Pesada,Nulo;30056;Nulo
+C-013;Agricultura,C;10362;B
+C-014;Agricultura,B;173884;C
+C-015;agroindustria,Nulo;14191;C
+C-016;agroindustria,Nulo;3871;B
+C-017;Agricultura,C;22178;Nulo
+C-018;Manufactura Pesada,C;16896;B
+C-019;Nulo,B;8416;B
+C-020;Agricultura,A;3066;Nulo
+C-021;MINERÍA,A;11738;Nulo
+C-022;COMERCIO,B;8606;Nulo
+C-023;Manufactura Pesada,B;16719;C
+C-024;Manufactura Pesada,B;14556;B
+C-025;Manufactura Pesada,A;22966;A
+C-026;tecnología,Nulo;18825;Nulo
+C-027;Manufactura Pesada,Nulo;22050;B
+C-028;Manufactura Pesada,B;6437;C
+C-029;tecnología,B;23483;Nulo
+C-030;COMERCIO,Nulo;6218;A
+C-031;MINERÍA,C;13899;Nulo
+C-032;COMERCIO,B;13752;C
+C-033;Manufactura Pesada,B;20256;Nulo
+C-034;Nulo,A;1642;C
+C-035;COMERCIO,Nulo;10832;A
+C-036;MINERÍA,C;24412;C
+C-037;tecnología,C;2547;B
+C-038;COMERCIO,B;21181;A
+C-039;MINERÍA,C;2350;A
+C-040;Manufactura Pesada,C;13087;B
+C-041;COMERCIO,Nulo;9121;Nulo
+C-042;COMERCIO,Nulo;12149;B
+C-043;Agricultura,C;9608;A
+C-044;MINERÍA,C;390;B
+C-045;MINERÍA,Nulo;6092;A
+C-046;Nulo,Nulo;15018;A
+C-047;agroindustria,A;12499;A
+C-048;Manufactura Pesada,B;23147;Nulo
+C-049;Agricultura,Nulo;16791;A
+C-050;COMERCIO,B;20094;B
+C-051;Nulo,A;19021;Nulo
+C-052;COMERCIO,A;15121;A
+C-053;COMERCIO,C;16658;B
+C-054;COMERCIO,C;21938;C
+C-055;tecnología,B;20044;A
+C-056;MINERÍA,C;23911;Nulo
+C-057;MINERÍA,A;13415;C
+C-058;Manufactura Pesada,C;18957;Nulo
+C-059;Nulo,B;22171;C
+C-060;Agricultura,A;19557;A
+C-061;Nulo,C;19646;A
+C-062;COMERCIO,C;6730;B
+C-063;tecnología,B;11714;B
+C-064;MINERÍA,C;3132;B
+C-065;COMERCIO,C;20644;A
+C-066;agroindustria,Nulo;4689;A
+C-067;MINERÍA,C;6793;A
+C-068;Manufactura Pesada,Nulo;9146;Nulo
+C-069;tecnología,B;12454;Nulo
+C-070;Agricultura,C;15673;A
+C-071;Agricultura,B;16238;Nulo
+C-072;agroindustria,Nulo;19640;A
+C-073;Nulo,C;11778;C
+C-074;tecnología,B;21723;C
+C-075;agroindustria,C;21996;A
+C-076;MINERÍA,A;11093;Nulo
+C-077;tecnología,C;11315;Nulo
+C-078;Agricultura,B;19763;B
+C-079;Agricultura,Nulo;8345;Nulo
+C-080;MINERÍA,Nulo;19914;C
+C-081;Nulo,B;24860;C
+C-082;tecnología,A;6977;B
+C-083;MINERÍA,Nulo;20565;Nulo
+C-084;agroindustria,Nulo;1625;Nulo
+C-085;COMERCIO,B;1646;C
+C-086;MINERÍA,Nulo;21216;C
+C-087;COMERCIO,A;15238;B
+C-088;Agricultura,C;10740;Nulo
+C-089;tecnología,A;7180;Nulo
+C-090;MINERÍA,Nulo;13693;C
+C-091;MINERÍA,Nulo;6999;A
+C-092;agroindustria,A;23368;C
+C-093;Manufactura Pesada,B;22574;B
+C-094;Nulo,A;16615;C
+C-095;MINERÍA,C;19814;A
+C-096;agroindustria,B;20072;C
+C-097;MINERÍA,C;12782;Nulo
+C-098;COMERCIO,B;12779;A
+C-099;MINERÍA,A;10785;B
+C-100;COMERCIO,B;17298;Nulo
+C-101;Manufactura Pesada,C;6047;B
+C-102;COMERCIO,Nulo;10461;A
+C-103;Nulo,A;8959;B
+C-104;agroindustria,Nulo;19207;A
+C-105;agroindustria,A;18044;Nulo
+C-106;COMERCIO,A;3396;A
+C-107;Manufactura Pesada,A;8131;C
+C-108;MINERÍA,A;23204;B
+C-109;Manufactura Pesada,C;23563;A
+C-110;Agricultura,B;12745;Nulo
+C-111;Nulo,B;3376;C
+C-112;Agricultura,A;736;C
+C-113;tecnología,C;18617;C
+C-114;Manufactura Pesada,B;21011;B
+C-115;COMERCIO,C;8522;A
+C-116;tecnología,A;19936;C
+C-117;COMERCIO,Nulo;4967;B
+C-118;Manufactura Pesada,B;14831;B
+C-119;MINERÍA,C;13193;B
+C-120;COMERCIO,Nulo;19491;Nulo
+C-121;Agricultura,Nulo;22954;Nulo
+C-122;Nulo,C;7638;B
+C-123;MINERÍA,Nulo;6335;C
+C-124;agroindustria,Nulo;1175;C
+C-125;tecnología,A;8673;C
+C-126;agroindustria,A;18381;Nulo
+C-127;agroindustria,A;24161;Nulo
+C-128;Nulo,C;21111;B
+C-129;agroindustria,Nulo;337;C
+C-130;Manufactura Pesada,C;13800;A
+C-131;Manufactura Pesada,Nulo;20376;B
+C-132;Manufactura Pesada,A;745;Nulo
+C-133;tecnología,A;9980;A
+C-134;agroindustria,C;7972;B
+C-135;Nulo,A;6888;Nulo
+C-136;MINERÍA,B;4738;A
+C-137;Agricultura,C;1835;B
+C-138;MINERÍA,Nulo;7184;Nulo
+C-139;MINERÍA,B;14649;C
+C-140;COMERCIO,C;8342;Nulo
+C-141;Manufactura Pesada,A;4739;Nulo
+C-142;Manufactura Pesada,Nulo;5134;A
+C-143;tecnología,Nulo;11103;Nulo
+C-144;Manufactura Pesada,A;22026;A
+C-145;Manufactura Pesada,Nulo;3642;C
+C-146;Manufactura Pesada,B;9428;A
+C-147;agroindustria,B;18374;B
+C-148;COMERCIO,A;2406;A
+C-149;tecnología,B;17173;C
+C-150;COMERCIO,C;16366;A
+C-151;COMERCIO,B;5657;Nulo
+C-152;COMERCIO,A;17213;B
+C-153;Nulo,A;4005;C
+C-154;Manufactura Pesada,C;4140;B
+C-155;tecnología,Nulo;21802;A
+C-156;COMERCIO,Nulo;19659;C
+C-157;agroindustria,C;10478;B
+C-158;Agricultura,B;13435;C
+C-159;COMERCIO,B;14388;Nulo
+C-160;agroindustria,C;14112;Nulo
+C-161;agroindustria,Nulo;5818;B
+C-162;Manufactura Pesada,Nulo;24737;Nulo
+C-163;MINERÍA,A;19122;B
+C-164;Manufactura Pesada,B;2489;C
+C-165;Manufactura Pesada,C;23976;B
+C-166;agroindustria,Nulo;17271;C
+C-167;COMERCIO,C;7753;Nulo
+C-168;MINERÍA,B;13839;Nulo
+C-169;Nulo,C;6479;B
+C-170;COMERCIO,C;23136;A
+C-171;Manufactura Pesada,Nulo;23034;Nulo
+C-172;tecnología,Nulo;1570;Nulo
+C-173;Agricultura,A;15311;C
+C-174;MINERÍA,C;19361;A
+C-175;Nulo,Nulo;6071;A
+C-176;agroindustria,C;18615;Nulo
+C-177;Agricultura,B;3237;B
+C-178;Nulo,B;17712;A
+C-179;Agricultura,Nulo;19535;B
+C-180;agroindustria,Nulo;22312;A
+C-181;Nulo,B;22143;A
+C-182;agroindustria,A;17944;C
+C-183;MINERÍA,A;5198;A
+C-184;MINERÍA,Nulo;3188;B
+C-185;agroindustria,B;8249;C
+C-186;Nulo,A;962;C
+C-187;Agricultura,Nulo;24924;Nulo
+C-188;COMERCIO,Nulo;9897;C
+C-189;agroindustria,A;13652;B
+C-190;Nulo,C;24340;B
+C-191;agroindustria,Nulo;20696;Nulo
+C-192;Nulo,C;10096;B
+C-193;Agricultura,A;12749;C
+C-194;MINERÍA,B;6499;A
+C-195;MINERÍA,Nulo;8733;Nulo
+C-196;MINERÍA,Nulo;3447;C
+C-197;tecnología,C;16098;C
+C-198;Nulo,B;18217;Nulo
+C-199;Manufactura Pesada,B;10237;A
+C-200;Manufactura Pesada,B;22416;Nulo
+C-201;tecnología,C;3832;Nulo
+C-202;tecnología,A;16494;B
+C-203;Manufactura Pesada,A;8898;C
+C-204;Agricultura,Nulo;12405;A
+C-205;agroindustria,B;13170;C
+C-206;tecnología,A;16192;Nulo
+C-207;Agricultura,C;8566;Nulo
+C-208;agroindustria,Nulo;12782;B
+C-209;Nulo,B;6598;B
+C-210;Manufactura Pesada,A;15030;Nulo
+C-211;MINERÍA,B;11674;Nulo
+C-212;Manufactura Pesada,A;17835;B
+C-213;Nulo,C;9233;C
+C-214;agroindustria,A;11750;C
+C-215;Agricultura,Nulo;22881;B
+C-216;MINERÍA,Nulo;16159;C
+C-217;COMERCIO,C;11043;C
+C-218;agroindustria,B;11037;C
+C-219;MINERÍA,A;13961;B
+C-220;COMERCIO,Nulo;23690;C
+C-221;Nulo,C;1412;C
+C-222;Manufactura Pesada,C;17769;Nulo
+C-223;agroindustria,B;18665;A
+C-224;tecnología,B;15218;Nulo
+C-225;agroindustria,Nulo;19665;B
+C-226;Manufactura Pesada,Nulo;6504;Nulo
+C-227;Manufactura Pesada,Nulo;1425;Nulo
+C-228;COMERCIO,A;13223;Nulo
+C-229;agroindustria,A;2547;A
+C-230;MINERÍA,C;9199;C
+C-231;MINERÍA,Nulo;9154;B
+C-232;Nulo,A;16030;A
+C-233;COMERCIO,Nulo;9535;Nulo
+C-234;Nulo,Nulo;7817;Nulo
+C-235;tecnología,C;927;C
+C-236;Manufactura Pesada,C;1447;Nulo
+C-237;Agricultura,B;10923;Nulo
+C-238;tecnología,B;2031;Nulo
+C-239;COMERCIO,A;10967;Nulo
+C-240;MINERÍA,C;20723;A
+C-241;COMERCIO,B;3488;B
+C-242;MINERÍA,B;283;Nulo
+C-243;Agricultura,A;17292;C
+C-244;COMERCIO,C;9409;A
+C-245;Manufactura Pesada,B;17354;C
+C-246;Manufactura Pesada,A;10835;C
+C-247;Nulo,A;11622;B
+C-248;Agricultura,Nulo;20971;A
+C-249;Nulo,B;2288;A
+C-250;Manufactura Pesada,Nulo;3119;Nulo
+C-251;Nulo,A;23121;C
+C-252;tecnología,A;14342;C
+C-253;Agricultura,C;10861;Nulo
+C-254;Agricultura,C;7822;B
+C-255;Nulo,A;6963;A
+C-256;Manufactura Pesada,B;12307;A
+C-257;COMERCIO,A;14632;C
+C-258;tecnología,Nulo;13859;C
+C-259;COMERCIO,C;17450;B
+C-260;COMERCIO,Nulo;5560;B
+C-261;Agricultura,Nulo;2130;A
+C-262;MINERÍA,B;19983;C
+C-263;Nulo,B;4287;A
+C-264;Nulo,C;12946;Nulo
+C-265;tecnología,A;6475;Nulo
+C-266;agroindustria,A;1962;B
+C-267;agroindustria,B;15932;Nulo
+C-268;Manufactura Pesada,C;6370;C
+C-269;agroindustria,A;15608;C
+C-270;tecnología,B;4686;A
+C-271;tecnología,C;7717;C
+C-272;MINERÍA,C;18461;Nulo
+C-273;MINERÍA,B;9061;Nulo
+C-274;Manufactura Pesada,A;10314;A
+C-275;COMERCIO,C;10525;A
+C-276;agroindustria,B;2947;A
+C-277;agroindustria,B;18321;B
+C-278;tecnología,Nulo;549;C
+C-279;Agricultura,C;12198;B
+C-280;tecnología,A;6628;C
+C-281;Manufactura Pesada,Nulo;986;C
+C-282;COMERCIO,B;23693;B
+C-283;Nulo,Nulo;17797;C
+C-284;COMERCIO,Nulo;1185;A
+C-285;COMERCIO,Nulo;14392;B
+C-286;agroindustria,Nulo;1113;A
+C-287;Nulo,B;3994;Nulo
+C-288;tecnología,Nulo;3768;C
+C-289;MINERÍA,Nulo;6876;Nulo
+C-290;Nulo,A;3779;Nulo
+C-291;agroindustria,Nulo;7686;A
+C-292;tecnología,B;2692;Nulo
+C-293;tecnología,A;2733;A
+C-294;Manufactura Pesada,Nulo;11484;B
+C-295;MINERÍA,Nulo;8076;C
+C-296;tecnología,B;2868;B
+C-297;MINERÍA,C;21672;C
+C-298;agroindustria,Nulo;11433;C
+C-299;MINERÍA,C;8431;Nulo
+C-300;agroindustria,A;22482;A
+C-301;MINERÍA,Nulo;17238;B
+C-302;Agricultura,Nulo;4418;A
+C-303;Manufactura Pesada,Nulo;1547;C
+C-304;agroindustria,Nulo;16486;B
+C-305;COMERCIO,Nulo;21683;A
+C-306;COMERCIO,Nulo;23614;C
+C-307;MINERÍA,Nulo;20737;B
+C-308;COMERCIO,C;3680;B
+C-309;COMERCIO,C;15425;B
+C-310;tecnología,C;8633;Nulo
+C-311;MINERÍA,A;22408;B
+C-312;MINERÍA,A;19430;C
+C-313;Nulo,B;296;C
+C-314;MINERÍA,C;10070;C
+C-315;tecnología,Nulo;10236;B
+C-316;Nulo,C;6335;B
+C-317;Manufactura Pesada,C;2645;Nulo
+C-318;Manufactura Pesada,B;4974;A
+C-319;agroindustria,Nulo;23647;Nulo
+C-320;MINERÍA,C;4404;A
+C-321;Nulo,A;3866;Nulo
+C-322;agroindustria,B;7856;B
+C-323;MINERÍA,C;23072;A
+C-324;Nulo,A;18473;C
+C-325;MINERÍA,Nulo;16130;C
+C-326;COMERCIO,B;10214;A
+C-327;Nulo,C;17779;C
+C-328;agroindustria,A;18368;C
+C-329;tecnología,A;386;B
+C-330;COMERCIO,A;4448;A
+C-331;tecnología,A;8510;A
+C-332;agroindustria,Nulo;24167;C
+C-333;tecnología,Nulo;16977;C
+C-334;agroindustria,B;3225;B
+C-335;agroindustria,A;2825;Nulo
+C-336;Nulo,C;6220;B
+C-337;tecnología,A;15850;A
+C-338;MINERÍA,A;24797;C
+C-339;COMERCIO,A;13069;A
+C-340;Agricultura,Nulo;19428;B
+C-341;MINERÍA,A;13264;B
+C-342;Nulo,B;5792;Nulo
+C-343;Manufactura Pesada,B;23307;Nulo
+C-344;tecnología,C;19095;Nulo
+C-345;COMERCIO,A;9065;C
+C-346;MINERÍA,B;18980;A
+C-347;MINERÍA,B;16873;B
+C-348;COMERCIO,B;24468;Nulo
+C-349;tecnología,B;19785;B
+C-350;MINERÍA,Nulo;22263;C
+C-351;agroindustria,A;24601;A
+C-352;Agricultura,Nulo;3201;C
+C-353;MINERÍA,Nulo;19543;C
+C-354;Agricultura,A;20782;B
+C-355;Nulo,A;7337;A
+C-356;Nulo,A;3637;Nulo
+C-357;MINERÍA,Nulo;21798;B
+C-358;tecnología,B;7942;B
+C-359;Manufactura Pesada,A;12419;A
+C-360;Nulo,A;12956;A
+C-361;Agricultura,C;16074;Nulo
+C-362;agroindustria,C;13072;C
+C-363;agroindustria,B;17451;C
+C-364;MINERÍA,A;18463;B
+C-365;Nulo,C;18321;B
+C-366;agroindustria,Nulo;13898;Nulo
+C-367;Nulo,B;20000;A
+C-368;tecnología,C;21739;C
+C-369;MINERÍA,A;6832;C
+C-370;MINERÍA,B;7962;Nulo
+C-371;Manufactura Pesada,B;14212;Nulo
+C-372;Agricultura,B;15249;B
+C-373;Nulo,C;7864;B
+C-374;agroindustria,Nulo;14977;Nulo
+C-375;tecnología,Nulo;20066;A
+C-376;Manufactura Pesada,Nulo;22648;A
+C-377;COMERCIO,C;20045;B
+C-378;MINERÍA,B;9319;C
+C-379;agroindustria,B;22281;B
+C-380;Agricultura,B;20500;B
+C-381;Manufactura Pesada,Nulo;16259;A
+C-382;agroindustria,Nulo;16989;Nulo
+C-383;COMERCIO,Nulo;2982;C
+C-384;COMERCIO,A;22292;B
+C-385;Nulo,B;2375;C
+C-386;COMERCIO,Nulo;4238;A
+C-387;Nulo,C;2023;Nulo
+C-388;agroindustria,C;9837;C
+C-389;Manufactura Pesada,C;20678;Nulo
+C-390;tecnología,Nulo;8431;B
+C-391;tecnología,A;3999;B
+C-392;Nulo,C;13282;Nulo
+C-393;Manufactura Pesada,A;9661;B
+C-394;tecnología,Nulo;24173;B
+C-395;Manufactura Pesada,C;9988;Nulo
+C-396;Manufactura Pesada,B;8623;Nulo
+C-397;agroindustria,A;3914;Nulo
+C-398;MINERÍA,B;2967;A
+C-399;COMERCIO,A;12052;C
+C-400;Nulo,C;20249;A
+C-401;Manufactura Pesada,A;9151;C
+C-402;tecnología,Nulo;24833;Nulo
+C-403;tecnología,B;8421;A
+C-404;agroindustria,B;5509;A
+C-405;MINERÍA,C;13402;Nulo
+C-406;Agricultura,Nulo;6622;B
+C-407;MINERÍA,A;2755;A
+C-408;Manufactura Pesada,C;15618;C
+C-409;Nulo,B;21891;B
+C-410;MINERÍA,A;599;B
+C-411;Agricultura,Nulo;14525;A
+C-412;Agricultura,A;21684;B
+C-413;MINERÍA,B;13929;B
+C-414;MINERÍA,Nulo;12038;Nulo
+C-415;Nulo,Nulo;8677;A
+C-416;agroindustria,C;1395;Nulo
+C-417;agroindustria,B;8925;C
+C-418;tecnología,B;16755;A
+C-419;Manufactura Pesada,C;7864;A
+C-420;Manufactura Pesada,B;5196;Nulo
+C-421;Manufactura Pesada,B;3192;A
+C-422;Nulo,C;10302;B
+C-423;tecnología,A;19842;C
+C-424;Manufactura Pesada,Nulo;7887;A
+C-425;Agricultura,B;22832;A
+C-426;Agricultura,C;7911;A
+C-427;COMERCIO,Nulo;4578;C
+C-428;MINERÍA,A;5223;B
+C-429;agroindustria,Nulo;12706;A
+C-430;Manufactura Pesada,B;20694;Nulo
+C-431;agroindustria,B;22494;C
+C-432;agroindustria,B;19450;A
+C-433;Manufactura Pesada,A;23297;A
+C-434;MINERÍA,B;7894;Nulo
+C-435;tecnología,A;5924;Nulo
+C-436;agroindustria,B;23406;B
+C-437;Manufactura Pesada,C;6927;Nulo
+C-438;tecnología,B;8982;A
+C-439;agroindustria,B;11164;A
+C-440;Manufactura Pesada,A;8674;A
+C-441;Manufactura Pesada,C;13469;A
+C-442;tecnología,Nulo;24845;Nulo
+C-443;tecnología,C;24653;C
+C-444;COMERCIO,C;4580;A
+C-445;Agricultura,Nulo;14686;A
+C-446;agroindustria,C;11945;B
+C-447;MINERÍA,B;20064;C
+C-448;Nulo,A;11507;B
+C-449;Nulo,Nulo;16947;Nulo
+C-450;agroindustria,B;16686;C
+C-451;Manufactura Pesada,A;16697;C
+C-452;MINERÍA,B;4338;B
+C-453;MINERÍA,A;13191;B
+C-454;tecnología,C;16205;B
+C-455;Manufactura Pesada,Nulo;16423;C
+C-456;Nulo,C;2885;B
+C-457;Agricultura,B;5899;B
+C-458;Manufactura Pesada,B;15784;A
+C-459;MINERÍA,Nulo;10935;Nulo
+C-460;COMERCIO,C;16037;A
+C-461;Agricultura,A;23375;Nulo
+C-462;tecnología,B;4098;C
+C-463;Agricultura,C;1430;Nulo
+C-464;agroindustria,Nulo;17391;C
+C-465;COMERCIO,B;23691;B
+C-466;Manufactura Pesada,A;5766;Nulo
+C-467;tecnología,C;813;A
+C-468;MINERÍA,C;6475;B
+C-469;agroindustria,C;24105;B
+C-470;Manufactura Pesada,A;13798;B
+C-471;COMERCIO,C;20872;A
+C-472;agroindustria,Nulo;20345;C
+C-473;Nulo,C;16716;C
+C-474;agroindustria,Nulo;4940;Nulo
+C-475;COMERCIO,Nulo;8459;A
+C-476;Nulo,B;18516;C
+C-477;tecnología,B;12053;A
+C-478;agroindustria,B;18382;Nulo
+C-479;MINERÍA,B;6508;B
+C-480;agroindustria,B;5248;Nulo
+C-481;tecnología,C;5889;A
+C-482;Manufactura Pesada,A;4513;B
+C-483;Agricultura,C;406;A
+C-484;COMERCIO,B;14842;B
+C-485;Nulo,C;17085;B
+C-486;Manufactura Pesada,Nulo;1736;B
+C-487;Manufactura Pesada,A;15387;Nulo
+C-488;COMERCIO,B;14187;A
+C-489;agroindustria,B;21814;C
+C-490;tecnología,B;9373;B
+C-491;tecnología,A;11597;Nulo
+C-492;Manufactura Pesada,A;22604;A
+C-493;Agricultura,B;11653;C
+C-494;tecnología,C;8886;Nulo
+C-495;MINERÍA,C;13665;Nulo
+C-496;Manufactura Pesada,B;23278;A
+C-497;MINERÍA,Nulo;16036;Nulo
+C-498;tecnología,Nulo;15216;A
+C-499;MINERÍA,C;20344;Nulo
+C-500;COMERCIO,C;20523;Nulo
+C-501;COMERCIO,C;13106;Nulo
+C-502;tecnología,A;9075;A
+C-503;tecnología,C;2486;A
+C-504;tecnología,A;20770;C
+C-505;tecnología,Nulo;24447;A
+C-506;agroindustria,B;20216;B
+C-507;tecnología,Nulo;897;A
+C-508;Agricultura,Nulo;12376;Nulo
+C-509;tecnología,C;21319;A
+C-510;Manufactura Pesada,A;5940;C
+C-511;Manufactura Pesada,A;21889;B
+C-512;agroindustria,C;23267;Nulo
+C-513;MINERÍA,B;23609;A
+C-514;Manufactura Pesada,B;3697;B
+C-515;Manufactura Pesada,B;18046;C
+C-516;Agricultura,C;15718;A
+C-517;Agricultura,Nulo;20839;B
+C-518;COMERCIO,B;3473;C
+C-519;COMERCIO,Nulo;1860;A
+C-520;MINERÍA,B;19933;B
+C-521;COMERCIO,Nulo;19605;A
+C-522;COMERCIO,B;4785;A
+C-523;COMERCIO,C;12143;C
+C-524;Agricultura,A;21277;A
+C-525;Manufactura Pesada,C;19692;B
+C-526;Manufactura Pesada,A;11840;Nulo
+C-527;tecnología,B;14067;A
+C-528;Nulo,B;11748;B
+C-529;tecnología,Nulo;18821;C
+C-530;MINERÍA,C;21942;A
+C-531;MINERÍA,A;21766;Nulo
+C-532;Agricultura,B;8434;A
+C-533;MINERÍA,C;18631;C
+C-534;MINERÍA,Nulo;14950;C
+C-535;agroindustria,C;1150;A
+C-536;Nulo,C;2747;Nulo
+C-537;Nulo,Nulo;15656;B
+C-538;Agricultura,A;4749;B
+C-539;COMERCIO,A;17732;C
+C-540;tecnología,B;5518;Nulo
+C-541;MINERÍA,C;7173;A
+C-542;tecnología,Nulo;1264;C
+C-543;Agricultura,A;22181;C
+C-544;agroindustria,B;2255;A
+C-545;MINERÍA,Nulo;1514;B
+C-546;tecnología,C;24098;Nulo
+C-547;Nulo,B;21104;C
+C-548;Nulo,B;7344;B
+C-549;Nulo,B;6639;B
+C-550;Manufactura Pesada,B;22828;C
+C-551;Nulo,Nulo;18684;Nulo
+C-552;Manufactura Pesada,C;21751;B
+C-553;tecnología,A;2818;B
+C-554;MINERÍA,B;2707;C
+C-555;Manufactura Pesada,Nulo;12798;B
+C-556;tecnología,A;21370;B
+C-557;Manufactura Pesada,B;19968;B
+C-558;agroindustria,B;10253;B
+C-559;COMERCIO,A;6645;A
+C-560;Nulo,Nulo;24651;A
+C-561;MINERÍA,B;8750;Nulo
+C-562;tecnología,Nulo;9115;A
+C-563;MINERÍA,B;3128;Nulo
+C-564;agroindustria,A;4145;B
+C-565;COMERCIO,A;11161;B
+C-566;agroindustria,A;20343;Nulo
+C-567;COMERCIO,C;2434;A
+C-568;Nulo,A;24618;A
+C-569;Manufactura Pesada,B;21067;B
+C-570;MINERÍA,C;22499;C
+C-571;tecnología,Nulo;5400;B
+C-572;Agricultura,C;18390;C
+C-573;Nulo,B;11321;Nulo
+C-574;Nulo,Nulo;2876;C
+C-575;tecnología,B;8372;Nulo
+C-576;agroindustria,A;10651;B
+C-577;Manufactura Pesada,B;20754;B
+C-578;agroindustria,Nulo;18446;C
+C-579;Nulo,C;23676;B
+C-580;Manufactura Pesada,Nulo;4607;Nulo
+C-581;Manufactura Pesada,B;15079;B
+C-582;Agricultura,Nulo;10565;C
+C-583;agroindustria,A;16800;B
+C-584;COMERCIO,C;6777;C
+C-585;agroindustria,A;3319;C
+C-586;MINERÍA,A;21773;C
+C-587;Manufactura Pesada,B;2033;C
+C-588;tecnología,B;10086;Nulo
+C-589;tecnología,Nulo;4591;C
+C-590;MINERÍA,Nulo;9943;C
+C-591;agroindustria,A;6754;B
+C-592;MINERÍA,C;685;C
+C-593;agroindustria,B;5242;B
+C-594;MINERÍA,Nulo;14640;Nulo
+C-595;agroindustria,B;8508;B
+C-596;Agricultura,A;16614;Nulo
+C-597;COMERCIO,A;18852;A
+C-598;Manufactura Pesada,Nulo;21329;A
+C-599;MINERÍA,A;11727;Nulo
+C-600;tecnología,Nulo;15758;C
+C-601;Manufactura Pesada,Nulo;6546;Nulo
+C-602;Nulo,C;7119;Nulo
+C-603;Manufactura Pesada,B;14329;C
+C-604;Manufactura Pesada,Nulo;7899;B
+C-605;MINERÍA,C;8667;B
+C-606;Manufactura Pesada,C;20019;B
+C-607;COMERCIO,A;24315;A
+C-608;Nulo,B;14201;B
+C-609;Nulo,A;15638;Nulo
+C-610;COMERCIO,Nulo;8982;C
+C-611;MINERÍA,Nulo;13343;Nulo
+C-612;tecnología,Nulo;12431;Nulo
+C-613;Nulo,B;2185;C
+C-614;Nulo,A;19922;A
+C-615;MINERÍA,Nulo;23430;C
+C-616;MINERÍA,C;803;Nulo
+C-617;Nulo,A;15998;C
+C-618;MINERÍA,Nulo;13325;C
+C-619;Nulo,B;19046;B
+C-620;COMERCIO,Nulo;24163;A
+C-621;tecnología,A;15598;Nulo
+C-622;Manufactura Pesada,A;1503;Nulo
+C-623;Nulo,B;21929;C
+C-624;COMERCIO,Nulo;2073;Nulo
+C-625;Agricultura,A;15971;A
+C-626;Nulo,B;23128;A
+C-627;Manufactura Pesada,Nulo;1728;A
+C-628;Manufactura Pesada,Nulo;9339;B
+C-629;COMERCIO,A;23657;C
+C-630;COMERCIO,Nulo;19885;Nulo
+C-631;Agricultura,B;24423;A
+C-632;agroindustria,C;11651;C
+C-633;MINERÍA,B;8443;B
+C-634;MINERÍA,B;2918;A
+C-635;Manufactura Pesada,Nulo;405;C
+C-636;agroindustria,A;3613;Nulo
+C-637;Nulo,Nulo;17101;A
+C-638;tecnología,Nulo;23276;B
+C-639;Agricultura,B;19089;A
+C-640;agroindustria,B;22901;B
+C-641;Agricultura,A;18851;Nulo
+C-642;Nulo,Nulo;18593;B
+C-643;Manufactura Pesada,B;13694;C
+C-644;agroindustria,A;19043;A
+C-645;COMERCIO,C;20718;B
+C-646;COMERCIO,B;22729;A
+C-647;Nulo,A;545;A
+C-648;Manufactura Pesada,Nulo;17817;A
+C-649;MINERÍA,C;3258;C
+C-650;tecnología,C;3406;A
+C-651;MINERÍA,C;14327;C
+C-652;Nulo,A;21849;A
+C-653;COMERCIO,Nulo;15289;Nulo
+C-654;Manufactura Pesada,B;15875;C
+C-655;agroindustria,C;20687;A
+C-656;Nulo,Nulo;16668;A
+C-657;tecnología,Nulo;17368;B
+C-658;agroindustria,B;23984;B
+C-659;Manufactura Pesada,C;24850;Nulo
+C-660;MINERÍA,A;3889;Nulo
+C-661;Manufactura Pesada,A;3366;C
+C-662;MINERÍA,B;11066;C
+C-663;Agricultura,B;22157;C
+C-664;Manufactura Pesada,B;14964;Nulo
+C-665;Nulo,C;4244;Nulo
+C-666;Agricultura,A;12695;C
+C-667;Agricultura,C;19520;A
+C-668;agroindustria,C;19156;C
+C-669;COMERCIO,A;15657;Nulo
+C-670;Manufactura Pesada,Nulo;11404;A
+C-671;Manufactura Pesada,B;20675;C
+C-672;tecnología,B;1882;C
+C-673;Nulo,B;1808;A
+C-674;COMERCIO,A;3331;A
+C-675;Agricultura,B;14125;C
+C-676;tecnología,C;23799;Nulo
+C-677;MINERÍA,A;600;B
+C-678;agroindustria,C;24705;B
+C-679;tecnología,Nulo;19413;A
+C-680;Nulo,B;11411;A
+C-681;Nulo,B;11104;Nulo
+C-682;agroindustria,Nulo;3357;C
+C-683;tecnología,Nulo;6277;Nulo
+C-684;Agricultura,C;4508;A
+C-685;agroindustria,C;10464;B
+C-686;Nulo,C;7536;B
+C-687;tecnología,B;2621;C
+C-688;tecnología,A;4027;A
+C-689;Manufactura Pesada,C;17395;C
+C-690;COMERCIO,C;14535;Nulo
+C-691;Nulo,A;11754;B
+C-692;Nulo,C;7438;Nulo
+C-693;Manufactura Pesada,C;13501;C
+C-694;MINERÍA,B;24487;A
+C-695;tecnología,C;4445;A
+C-696;COMERCIO,C;10628;Nulo
+C-697;tecnología,A;24731;Nulo
+C-698;agroindustria,A;4230;B
+C-699;Nulo,C;21739;B
+C-700;tecnología,B;15124;B
+C-701;Manufactura Pesada,C;1503;C
+C-702;agroindustria,C;1998;C
+C-703;agroindustria,C;7052;C
+C-704;MINERÍA,B;17474;B
+C-705;tecnología,C;24663;B
+C-706;MINERÍA,A;5926;B
+C-707;MINERÍA,A;18177;A
+C-708;tecnología,A;21914;A
+C-709;tecnología,A;17359;C
+C-710;tecnología,Nulo;18544;B
+C-711;COMERCIO,C;7221;Nulo
+C-712;tecnología,Nulo;6809;Nulo
+C-713;Agricultura,C;4177;C
+C-714;Nulo,B;4703;B
+C-715;tecnología,B;10303;Nulo
+C-716;COMERCIO,B;18743;Nulo
+C-717;Manufactura Pesada,C;14124;A
+C-718;Manufactura Pesada,B;6479;A
+C-719;COMERCIO,Nulo;321;C
+C-720;COMERCIO,A;21447;A
+C-721;MINERÍA,A;13188;A
+C-722;COMERCIO,Nulo;18137;B
+C-723;Manufactura Pesada,A;23493;A
+C-724;COMERCIO,C;4973;C
+C-725;Agricultura,Nulo;11516;Nulo
+C-726;MINERÍA,A;16847;B
+C-727;Nulo,B;4420;Nulo
+C-728;agroindustria,Nulo;15643;A
+C-729;COMERCIO,C;17242;C
+C-730;Manufactura Pesada,C;21868;B
+C-731;Nulo,C;6462;Nulo
+C-732;agroindustria,Nulo;14006;B
+C-733;tecnología,C;5440;B
+C-734;Nulo,C;18169;B
+C-735;COMERCIO,Nulo;20015;Nulo
+C-736;COMERCIO,A;10198;C
+C-737;Manufactura Pesada,Nulo;17263;C
+C-738;tecnología,A;1144;C
+C-739;tecnología,A;2938;B
+C-740;MINERÍA,C;19191;A
+C-741;Nulo,Nulo;7061;B
+C-742;Manufactura Pesada,B;24588;B
+C-743;Nulo,A;20702;Nulo
+C-744;agroindustria,B;22336;C
+C-745;MINERÍA,B;14276;Nulo
+C-746;Agricultura,A;13326;Nulo
+C-747;agroindustria,C;20821;B
+C-748;MINERÍA,C;7260;A
+C-749;Agricultura,A;17091;B
+C-750;COMERCIO,Nulo;16042;C
+C-751;tecnología,C;20732;B
+C-752;tecnología,A;15198;B
+C-753;COMERCIO,Nulo;13682;Nulo
+C-754;Manufactura Pesada,Nulo;22453;C
+C-755;agroindustria,B;20213;B
+C-756;tecnología,Nulo;14093;A
+C-757;COMERCIO,A;22280;C
+C-758;Manufactura Pesada,Nulo;10097;Nulo
+C-759;MINERÍA,C;20053;B
+C-760;COMERCIO,C;624;B
+C-761;Nulo,B;19143;Nulo
+C-762;Agricultura,C;24708;B
+C-763;Agricultura,A;24817;B
+C-764;Agricultura,Nulo;15902;B
+C-765;MINERÍA,Nulo;16728;A
+C-766;Manufactura Pesada,C;17692;Nulo
+C-767;agroindustria,Nulo;13478;Nulo
+C-768;Nulo,C;24724;A
+C-769;Agricultura,B;17184;Nulo
+C-770;Manufactura Pesada,Nulo;3709;Nulo
+C-771;tecnología,Nulo;5255;A
+C-772;MINERÍA,B;12846;B
+C-773;agroindustria,A;16784;B
+C-774;MINERÍA,C;22511;B
+C-775;Agricultura,B;7750;B
+C-776;Manufactura Pesada,Nulo;18014;Nulo
+C-777;Manufactura Pesada,Nulo;16713;C
+C-778;COMERCIO,B;4193;A
+C-779;tecnología,Nulo;4967;C
+C-780;Manufactura Pesada,C;6618;A
+C-781;Manufactura Pesada,A;9452;Nulo
+C-782;Agricultura,C;11578;C
+C-783;MINERÍA,C;3542;C
+C-784;Nulo,A;24348;Nulo
+C-785;tecnología,C;19589;C
+C-786;Nulo,B;1617;B
+C-787;MINERÍA,C;17440;A
+C-788;COMERCIO,Nulo;7609;A
+C-789;tecnología,A;14731;B
+C-790;agroindustria,A;18010;C
+C-791;Nulo,A;19331;C
+C-792;Manufactura Pesada,C;17896;C
+C-793;agroindustria,C;18561;C
+C-794;agroindustria,C;12598;B
+C-795;Manufactura Pesada,B;10300;Nulo
+C-796;Manufactura Pesada,C;20446;C
+C-797;Manufactura Pesada,B;21961;Nulo
+C-798;tecnología,B;14136;B
+C-799;tecnología,A;14966;B
+C-800;Manufactura Pesada,A;18423;C
+C-801;Agricultura,A;15750;B
+C-802;tecnología,A;5297;B
+C-803;MINERÍA,B;14986;A
+C-804;MINERÍA,A;24660;C
+C-805;Manufactura Pesada,B;3120;B
+C-806;COMERCIO,A;9488;A
+C-807;MINERÍA,B;18407;Nulo
+C-808;agroindustria,A;16957;A
+C-809;Nulo,Nulo;6066;B
+C-810;Agricultura,B;5646;C
+C-811;Manufactura Pesada,A;10547;Nulo
+C-812;Manufactura Pesada,A;7181;C
+C-813;agroindustria,Nulo;15698;B
+C-814;Manufactura Pesada,A;392;C
+C-815;COMERCIO,A;19349;C
+C-816;MINERÍA,B;21642;Nulo
+C-817;agroindustria,B;19648;Nulo
+C-818;tecnología,B;23219;Nulo
+C-819;COMERCIO,B;4030;A
+C-820;tecnología,Nulo;22437;B
+C-821;Nulo,C;18178;C
+C-822;agroindustria,C;14345;C
+C-823;Manufactura Pesada,Nulo;23759;Nulo
+C-824;Nulo,A;10795;B
+C-825;tecnología,Nulo;13321;A
+C-826;Agricultura,C;14761;C
+C-827;MINERÍA,A;10472;A
+C-828;Nulo,B;6767;C
+C-829;MINERÍA,B;1162;B
+C-830;Agricultura,A;13915;B
+C-831;COMERCIO,A;13562;A
+C-832;Manufactura Pesada,B;18274;A
+C-833;Manufactura Pesada,B;11895;C
+C-834;COMERCIO,Nulo;2549;A
+C-835;MINERÍA,B;13195;A
+C-836;Agricultura,Nulo;9150;A
+C-837;tecnología,C;3045;C
+C-838;Manufactura Pesada,B;13322;B
+C-839;Manufactura Pesada,C;6661;C
+C-840;Manufactura Pesada,A;3061;B
+C-841;Agricultura,B;24241;B
+C-842;COMERCIO,A;22875;B
+C-843;tecnología,C;20985;A
+C-844;Nulo,Nulo;829;C
+C-845;COMERCIO,B;18338;A
+C-846;Nulo,A;1492;B
+C-847;Agricultura,B;20625;C
+C-848;Nulo,C;1056;B
+C-849;agroindustria,A;24778;C
+C-850;Agricultura,A;4451;B
+C-851;COMERCIO,A;18414;C
+C-852;COMERCIO,C;4215;A
+C-853;MINERÍA,A;9507;C
+C-854;Agricultura,Nulo;23934;C
+C-855;MINERÍA,A;19927;A
+C-856;Manufactura Pesada,A;22340;A
+C-857;Manufactura Pesada,B;24113;B
+C-858;tecnología,C;18524;A
+C-859;MINERÍA,Nulo;16477;C
+C-860;Manufactura Pesada,Nulo;5872;Nulo
+C-861;Manufactura Pesada,B;3295;B
+C-862;Nulo,Nulo;11352;Nulo
+C-863;MINERÍA,C;4348;A
+C-864;COMERCIO,Nulo;3209;A
+C-865;tecnología,C;12867;B
+C-866;Agricultura,C;20400;B
+C-867;COMERCIO,A;16587;C
+C-868;Manufactura Pesada,Nulo;18135;A
+C-869;Manufactura Pesada,C;23618;A
+C-870;MINERÍA,B;18666;Nulo
+C-871;Nulo,Nulo;8872;A
+C-872;tecnología,Nulo;21234;Nulo
+C-873;MINERÍA,Nulo;6171;A
+C-874;COMERCIO,B;1740;Nulo
+C-875;COMERCIO,C;17610;C
+C-876;Manufactura Pesada,B;9148;A
+C-877;Nulo,Nulo;9557;A
+C-878;COMERCIO,B;21055;C
+C-879;COMERCIO,C;12522;B
+C-880;agroindustria,B;17752;C
+C-881;COMERCIO,C;15359;C
+C-882;COMERCIO,C;10597;A
+C-883;Agricultura,C;20638;C
+C-884;Nulo,A;21891;C
+C-885;COMERCIO,A;1951;Nulo
+C-886;MINERÍA,B;13871;Nulo
+C-887;Nulo,C;20701;B
+C-888;Agricultura,B;14631;C
+C-889;COMERCIO,B;17070;C
+C-890;agroindustria,A;7226;A
+C-891;COMERCIO,C;6278;Nulo
+C-892;COMERCIO,C;3769;B
+C-893;MINERÍA,Nulo;9226;A
+C-894;agroindustria,Nulo;22915;B
+C-895;Nulo,B;3339;Nulo
+C-896;tecnología,B;9859;C
+C-897;MINERÍA,B;3441;Nulo
+C-898;COMERCIO,A;13486;Nulo
+C-899;MINERÍA,A;14022;B
+C-900;COMERCIO,A;22077;C
+C-901;MINERÍA,B;18380;Nulo
+C-902;Manufactura Pesada,A;18986;C
+C-903;agroindustria,Nulo;24627;A
+C-904;Nulo,B;4222;A
+C-905;tecnología,B;22638;Nulo
+C-906;COMERCIO,B;6104;Nulo
+C-907;Nulo,A;14848;B
+C-908;Nulo,C;20417;B
+C-909;Agricultura,Nulo;19739;C
+C-910;Manufactura Pesada,B;6885;B
+C-911;Manufactura Pesada,A;6642;Nulo
+C-912;Manufactura Pesada,Nulo;17641;C
+C-913;MINERÍA,C;7568;C
+C-914;COMERCIO,A;579;A
+C-915;tecnología,Nulo;8802;C
+C-916;Manufactura Pesada,B;11228;C
+C-917;Nulo,C;16428;B
+C-918;tecnología,C;4951;B
+C-919;tecnología,B;21845;Nulo
+C-920;tecnología,A;7815;Nulo
+C-921;MINERÍA,Nulo;8720;B
+C-922;Agricultura,Nulo;24929;A
+C-923;Nulo,B;15564;B
+C-924;MINERÍA,A;2409;C
+C-925;agroindustria,B;13211;Nulo
+C-926;COMERCIO,A;5671;C
+C-927;MINERÍA,A;7144;B
+C-928;MINERÍA,Nulo;14822;C
+C-929;COMERCIO,Nulo;15982;B
+C-930;COMERCIO,B;17826;A
+C-931;COMERCIO,Nulo;1878;C
+C-932;Nulo,C;7307;Nulo
+C-933;Agricultura,C;21741;A
+C-934;tecnología,C;4049;Nulo
+C-935;MINERÍA,C;9058;B
+C-936;tecnología,Nulo;16176;C
+C-937;agroindustria,B;19198;B
+C-938;Agricultura,A;22446;B
+C-939;tecnología,A;13668;Nulo
+C-940;Nulo,C;18961;A
+C-941;tecnología,B;11681;Nulo
+C-942;Agricultura,B;9061;Nulo
+C-943;tecnología,B;16351;Nulo
+C-944;MINERÍA,Nulo;497;A
+C-945;tecnología,B;856;Nulo
+C-946;MINERÍA,B;21563;B
+C-947;COMERCIO,A;23902;Nulo
+C-948;Manufactura Pesada,C;2806;A
+C-949;Agricultura,A;10601;A
+C-950;COMERCIO,C;3065;A
+C-951;agroindustria,B;20318;Nulo
+C-952;Manufactura Pesada,Nulo;8869;A
+C-953;Agricultura,Nulo;14771;Nulo
+C-954;COMERCIO,A;19526;C
+C-955;Manufactura Pesada,A;21871;Nulo
+C-956;Agricultura,Nulo;17417;C
+C-957;Agricultura,A;23490;Nulo
+C-958;tecnología,B;14105;C
+C-959;COMERCIO,C;2184;C
+C-960;Nulo,C;16965;B
+C-961;Nulo,C;24676;A
+C-962;MINERÍA,C;22865;C
+C-963;COMERCIO,A;8296;A
+C-964;agroindustria,B;5660;A
+C-965;MINERÍA,C;9467;Nulo
+C-966;Agricultura,A;20048;C
+C-967;Agricultura,Nulo;6887;B
+C-968;MINERÍA,A;5072;A
+C-969;Agricultura,B;16516;C
+C-970;tecnología,B;1900;A
+C-971;MINERÍA,A;4694;B
+C-972;Manufactura Pesada,A;20960;Nulo
+C-973;Nulo,C;4646;C
+C-974;Agricultura,Nulo;13720;A
+C-975;COMERCIO,Nulo;16470;A
+C-976;Agricultura,Nulo;22625;B
+C-977;MINERÍA,B;15730;C
+C-978;agroindustria,B;14389;Nulo
+C-979;Nulo,A;20448;C
+C-980;Nulo,B;8629;Nulo
+C-981;Nulo,C;3529;A
+C-982;COMERCIO,A;15619;A
+C-983;agroindustria,Nulo;4890;A
+C-984;Manufactura Pesada,Nulo;24369;C
+C-985;Manufactura Pesada,C;21478;B
+C-986;COMERCIO,Nulo;11340;Nulo
+C-987;Agricultura,A;9464;A
+C-988;Manufactura Pesada,C;18167;C
+C-989;Agricultura,Nulo;1409;C
+C-990;Manufactura Pesada,C;12233;A
+C-991;MINERÍA,B;1804;C
+C-992;COMERCIO,A;7815;Nulo
+C-993;Manufactura Pesada,C;10013;B
+C-994;Nulo,C;1080;A
+C-995;tecnología,B;15093;Nulo
+C-996;MINERÍA,C;2018;Nulo
+C-997;Nulo,Nulo;22229;A
+C-998;Nulo,Nulo;22979;Nulo
+C-999;COMERCIO,C;13141;B
+C-1000;Agricultura,C;1998;Nulo
+C-1001;Nulo,C;3069;C
+C-1002;COMERCIO,C;15770;A
+C-1003;agroindustria,C;5618;A
+C-1004;COMERCIO,Nulo;10367;C
+C-1005;MINERÍA,C;15732;C
+C-1006;Agricultura,A;23150;B
+C-1007;Agricultura,A;461;Nulo
+C-1008;Agricultura,Nulo;17623;C
+C-1009;Agricultura,A;13226;Nulo
+C-1010;Nulo,C;20113;C
+C-1011;COMERCIO,B;12483;Nulo
+C-1012;MINERÍA,Nulo;16479;Nulo
+C-1013;tecnología,C;22525;B
+C-1014;MINERÍA,C;3410;A
+C-1015;tecnología,C;14105;C
+C-1016;agroindustria,A;14990;Nulo
+C-1017;tecnología,Nulo;8030;C
+C-1018;COMERCIO,B;21881;B
+C-1019;tecnología,A;18947;Nulo
+C-1020;COMERCIO,Nulo;15487;B
+C-1021;MINERÍA,C;10016;A
+C-1022;Manufactura Pesada,A;23581;B
+C-1023;tecnología,C;11466;Nulo
+C-1024;agroindustria,Nulo;20154;A
+C-1025;COMERCIO,A;8680;B
+C-1026;COMERCIO,C;17201;A
+C-1027;MINERÍA,C;5321;A
+C-1028;Nulo,A;6233;A
+C-1029;agroindustria,C;15503;A
+C-1030;agroindustria,C;23072;A
+C-1031;Agricultura,B;23380;C
+C-1032;agroindustria,C;20499;Nulo
+C-1033;Agricultura,A;14601;A
+C-1034;agroindustria,C;23581;A
+C-1035;COMERCIO,C;19423;A
+C-1036;MINERÍA,A;15370;B
+C-1037;COMERCIO,B;20569;Nulo
+C-1038;COMERCIO,Nulo;2043;A
+C-1039;tecnología,C;13916;A
+C-1040;Manufactura Pesada,B;13369;Nulo
+C-1041;Nulo,C;15450;B
+C-1042;MINERÍA,B;20329;A
+C-1043;agroindustria,B;14484;Nulo
+C-1044;Agricultura,C;19080;Nulo
+C-1045;Nulo,Nulo;5548;A
+C-1046;MINERÍA,Nulo;9156;A
+C-1047;Nulo,B;9154;A
+C-1048;agroindustria,A;4688;C
+C-1049;Manufactura Pesada,Nulo;20623;B
+C-1050;agroindustria,C;20393;Nulo
+C-1051;Agricultura,C;19717;B
